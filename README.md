@@ -1,1 +1,1 @@
-# sales-forcasting-using-pycaret
+# sales-forecasting-using-pycaret
